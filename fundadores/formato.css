@@ -126,3 +126,10 @@ left: -8em
     font-weight: bold; 
     font-style: italic;
 }
+
+p {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: rgb(7, 0, 0);
+    font-weight: bold; 
+    font-style: italic;
+}
