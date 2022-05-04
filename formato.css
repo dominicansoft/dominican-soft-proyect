@@ -80,7 +80,6 @@
 
 .encabezado{
     background-color: white;
-    border-top: 11px solid #C7739D;
 }
 
 
@@ -99,24 +98,15 @@
 top: -8em;
 left: 18em;
 }
-.img5 {
-position: relative;
-bottom: 4em;
-left: -8em
-}
-.img7 {
-    position: relative;
-    bottom: 4em;
-    left: -12em;
-}
-.img6 {
-    position: relative;
-    bottom: 14em;
-    left: 11em;
-} 
+
 .bordes {
     border: rgb(255, 213, 213);
     border-width: 10px;
     border-style: solid;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.contacto {
+    background-color: #ffffff;
+
 }
