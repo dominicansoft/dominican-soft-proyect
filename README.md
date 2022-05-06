@@ -2,7 +2,7 @@
 
 > ### **“Si decides hacer solo las cosas que sabes que van a funcionar, dejarás un montón de oportunidades encima de la mesa”.** Jeff Bezos, fundador y director ejecutivo de Amazon.
 
-#### Este proyecto/club es una iniciativa de algunos jovenes  y maestros ligados al tema de la informatica.
+#### Este proyecto/club es una iniciativa de algunos jovenes  y maestros ligados al tema de la informatica. prueba
 
 ## Misión
 Fomentar el compañerismo y la comunicación de todos los miembros del club, creando contactos y relaciones que sean de utilidad.
