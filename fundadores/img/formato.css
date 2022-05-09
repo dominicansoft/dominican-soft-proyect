@@ -120,3 +120,16 @@ left: -8em
     border-style: solid;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
+.h2 {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: rgb(7, 0, 0);
+    font-weight: bold; 
+    font-style: italic;
+}
+
+p {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: rgb(7, 0, 0);
+    font-weight: bold; 
+    font-style: italic;
+}
