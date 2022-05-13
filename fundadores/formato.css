@@ -120,3 +120,21 @@ left: -8em
     border-style: solid;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
+
+.parrafo2 {
+    color: #000000;
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+div {
+    border: black 3px solid;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  div div {
+    border: none;
+    background-color: lightblue;
+  }
