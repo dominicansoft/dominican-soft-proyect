@@ -134,7 +134,7 @@ div {
     padding: 10px;
   }
   
-  div div {
+  .div1 {
     border: none;
     background-color: lightblue;
   }
