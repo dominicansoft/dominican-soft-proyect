@@ -9,4 +9,4 @@ Fomentar el compañerismo y la comunicación de todos los miembros del club, cre
 
 ## Visión
 
-Queremos estar comprometidos con el futuro de las próximas y actuales generaciones de forma transparente y eficaz, convirtiéndose este club en guía para aquellos interesados en el mundo de la tecnología. cammbio
+Queremos estar comprometidos con el futuro de las próximas y actuales generaciones de forma transparente y eficaz, convirtiéndose este club en guía para aquellos interesados en el mundo de la tecnología. Ya puedes editar esto
