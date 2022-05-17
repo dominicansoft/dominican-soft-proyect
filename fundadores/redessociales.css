@@ -26,12 +26,15 @@ transition:all 500ms ease;
 
 }
 
-.navbar-start ul li .icon-facebook{background:#eceef1;}
+.navbar-start ul li .icon-facebook{background:#2c2e30;}
 .navbar-start ul li .icon-twitter{background:#6ad1f9;}
-.navbar-start ul li .icon-instagram{background:#9808B9;}
-.navbar-start ul li .icon-email{background:}
+.navbar-start ul li .icon-instagram{background:#f3f0f4;}
+.navbar-start ul li .icon-email{background:bisque}
 
 
 .navbar-start ul li a:hover{
 background:#000
 padding: 10px 80px}
+.fondo {
+    background-color: #3ac2f7;
+}
