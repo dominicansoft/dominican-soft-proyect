@@ -25,3 +25,5 @@ Queremos estar comprometidos con el futuro de las próximas y actuales generacio
 
 El objetivo de este club es acompañar a los estudiantes del técnico  de desarrollo y administración de sistemas informáticos, enseñando a como utilizar lo aprendido en la vida cotidiana y un entorno laboral.
 
+jewfkjaej2yuaefñouiddfhdgiaufgufeguoñ
+
