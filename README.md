@@ -9,4 +9,19 @@ Fomentar el compañerismo y la comunicación de todos los miembros del club, cre
 
 ## Visión
 
-Queremos estar comprometidos con el futuro de las próximas y actuales generaciones de forma transparente y eficaz, convirtiéndose este club en guía para aquellos interesados en el mundo de la tecnología. Ya puedes editar esto
+Queremos estar comprometidos con el futuro de las próximas y actuales generaciones de forma transparente y eficaz, convirtiéndose este club en guía para aquellos interesados en el mundo de la tecnología.
+
+## Valores
+
+- El respeto 
+- El trabajo en equipo
+- Compromiso
+- Convivencia
+- Superación
+- Humildad 
+- Aprendizaje
+
+## Objetivos 
+
+El objetivo de este club es acompañar a los estudiantes del técnico  de desarrollo y administración de sistemas informáticos, enseñando a como utilizar lo aprendido en la vida cotidiana y un entorno laboral.
+
