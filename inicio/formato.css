@@ -24,7 +24,6 @@
 .menu li a:hover {
     background: #7a7a79;
 }
-
 .boton1 {
     background: #234E7A;
     color: #ffffff;
@@ -34,19 +33,16 @@
     font-size: 11px;
     border-radius: 10px;
 } 
-
 .azul-claro {
     color: #4C83F0;
     font-family: Arial Black;
     font-size: 18px;
     padding-top: 37px;
 }
-
 .azul-oscuro {
     color: #234E7A;
     font-family: Arial Black;
 }
-
 .parrafo {
     color: #fefefe;
     font-family: Arial Black;
