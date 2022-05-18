@@ -24,7 +24,10 @@
 .menu li a:hover {
     background: #7a7a79;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 .boton1 {
     background: #234E7A;
     color: #ffffff;
@@ -34,19 +37,28 @@
     font-size: 11px;
     border-radius: 10px;
 } 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 .azul-claro {
     color: #4C83F0;
     font-family: Arial Black;
     font-size: 18px;
     padding-top: 37px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 .azul-oscuro {
     color: #234E7A;
     font-family: Arial Black;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 .parrafo {
     color: #fefefe;
     font-family: Arial Black;
@@ -89,6 +101,14 @@
     height: 150px;
     width: 250px;
 }  
+<<<<<<< HEAD
+=======
+
+.cambio{
+    color: white;
+}
+
+>>>>>>> main
 .redes
 {
     height: 650px;
@@ -112,7 +132,11 @@ left: 25em;
     background: linear-gradient(to right, #005C98, #505BDA);
     position: relative;
     overflow: hidden;
+<<<<<<< HEAD
 
+=======
+     color:white
+>>>>>>> main
 }
 
 *{
@@ -317,4 +341,8 @@ body{
     100%{
         transform: translateY(0);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> main
