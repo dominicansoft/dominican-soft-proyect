@@ -1,5 +1,10 @@
 # 📱Welcome to Dominican Soft💻
 
+<<<<<<< HEAD
+> **“Si decides hacer solo las cosas que sabes que van a funcionar, dejarás un montón de oportunidades encima de la mesa”.** Jeff Bezos, fundador y director ejecutivo de Amazon.
+
+### Este proyecto/club es con fines educativos y de desarrollo.
+=======
 > ### **“Si decides hacer solo las cosas que sabes que van a funcionar, dejarás un montón de oportunidades encima de la mesa”.** Jeff Bezos, fundador y director ejecutivo de Amazon.
 
 #### Dominican Soft es un proyecto comenzado por el técnico en desarrollo y aplicaciones informáticas 6toB (2022) con varios propósitos. 
@@ -26,3 +31,4 @@ Queremos estar comprometidos con el futuro de las próximas y actuales generacio
 ## Objetivos ⭕❗
 El objetivo de este club es acompañar a los estudiantes del técnico  de desarrollo y administración de sistemas informáticos, enseñando a como utilizar lo aprendido en la vida cotidiana y un entorno laboral.
 
+>>>>>>> main
